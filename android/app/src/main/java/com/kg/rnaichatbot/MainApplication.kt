@@ -1,4 +1,4 @@
-package com.rntemplatestable
+package com.kg.rnaichatbot
 
 import android.app.Application
 import com.facebook.react.PackageList
